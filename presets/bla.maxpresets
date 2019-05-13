@@ -1,0 +1,7 @@
+{
+	"preset_data" : [ 		{
+			"number" : 9,
+			"data" : [ 5, "obj-24", "tab", "int", 2, 5, "obj-203", "live.text", "float", 0.0, 5, "obj-56", "live.gain~", "float", 0.0, 5, "obj-78", "flonum", "float", 59.133862, 5, "obj-95", "number", "int", 95, 5, "obj-106", "number", "int", 4, 5, "obj-108", "flonum", "float", 0.0, 5, "obj-113", "flonum", "float", 480.0, 5, "obj-116", "flonum", "float", 59.133862, 5, "obj-81", "toggle", "int", 0, 5, "obj-220", "live.numbox", "float", 59.133862, 5, "obj-38", "number", "int", 500000, 5, "obj-165", "filtergraph~", "nfilters", 1, 9, "obj-165", "filtergraph~", "setoptions", 0, 1, 0, 0, 0, 8, "obj-165", "filtergraph~", "params", 0, 7118.897461, 1.0, 0.5, 5, "obj-164", "flonum", "float", 7118.897461, 5, "obj-163", "flonum", "float", 0.5, 5, "obj-157", "filtergraph~", "nfilters", 1, 9, "obj-157", "filtergraph~", "setoptions", 0, 2, 0, 0, 0, 8, "obj-157", "filtergraph~", "params", 0, 371.764893, 1.0, 0.5, 5, "obj-155", "flonum", "float", 371.764893, 5, "obj-154", "flonum", "float", 0.5, 5, "obj-148", "flonum", "float", 0.342992, 5, "obj-146", "flonum", "float", 1.0, 5, "obj-172", "live.dial", "float", 127.0, 5, "obj-174", "live.dial", "float", 44.0, 5, "obj-185", "live.dial", "float", 45.0, 5, "obj-186", "live.dial", "float", 55.0, 5, "obj-171", "live.tab", "float", 3.0, 5, "obj-217", "live.numbox", "float", 7118.897461, 5, "obj-218", "live.numbox", "float", 371.764893, 5, "obj-208", "live.text", "float", 1.0, 5, "obj-187", "live.text", "float", 1.0, 5, "obj-188", "live.text", "float", 0.0 ]
+		}
+ ]
+}
